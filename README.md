@@ -7,6 +7,8 @@ Original Images are on the left and Minecraft Versions are on the right
 <img src = "Fox.jpeg" width=400 alt="Original Fox Image"> <img src = "DitherTwoFox.jpeg" width=400 alt="Minecrat Block Fox Image">
 ##### Camera Icon
 <img src = "Camera.jpg" width=400 alt="Original Camera Icon"> <img src = "DitherTwoCamera.jpg" width=400 alt="Minecrat Block Camera Icon">
+##### Pizza Being Served
+<img src = "Pizza.jpeg" width=400 alt="Original Camera Icon"> <img src = "DitherTwoPizza.jpeg" width=400 alt="Minecrat Block Camera Icon">
 
 # How It Works (WIP)
 ### Average Block Color
